@@ -1,0 +1,12 @@
+# Dados dos clientes
+clientes.json
+clientes.csv
+clientes_backup.json
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+.venv/
+venv/
