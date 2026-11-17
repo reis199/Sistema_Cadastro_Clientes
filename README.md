@@ -6,10 +6,12 @@ Sistema desenvolvido em Python para gerenciar clientes pelo terminal.
 ## Funcionalidades
 - Cadastrar clientes
 - Listar clientes
-  
 - Editar clientes
-- Excluir clientes
 - Validar nomes e telefones
+- Gerar relatórios
+- 
+- Excluir clientes
+- 
 - Impedir telefones duplicados
 - Gerar relatórios
 - Exportar clientes para CSV
