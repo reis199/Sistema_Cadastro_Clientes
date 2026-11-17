@@ -6,7 +6,7 @@ Sistema desenvolvido em Python para gerenciar clientes pelo terminal.
 ## Funcionalidades
 - Cadastrar clientes
 - Listar clientes
-- Pesquisar clientes
+- Editar clientes
 - Editar clientes
 - Excluir clientes
 - Validar nomes e telefones
@@ -29,4 +29,4 @@ Sistema desenvolvido em Python para gerenciar clientes pelo terminal.
 python cadastro_clientes_v6.py
 
 ## Objetivo
-Projeto desenvolvido para praticar programação Python e construir meu portfólio profissional.
+Sistema de gerenciamento de clientes desenvolvido em Python, com funcionalidades de cadastro, consulta, edição, exclusão e validação de informações. A aplicação conta com persistência de dados em JSON, importação e exportação de arquivos CSV, prevenção de registros duplicados e geração de relatórios, proporcionando uma solução organizada para o controle de clientes.
