@@ -4,19 +4,16 @@
 Sistema desenvolvido em Python para gerenciar clientes pelo terminal.
 
 ## Funcionalidades
-- Cadastrar clientes
-- Listar clientes
-- Editar clientes
-- Validar nomes e telefones
-- Gerar relatórios
-- 
-- Excluir clientes
-- 
-- Impedir telefones duplicados
-- Gerar relatórios
-- Exportar clientes para CSV
-- Importar clientes de CSV
-- Salvar dados em JSON
+- Cadastro de clientes
+- Listagem de clientes
+- Edição de informações dos clientes
+- Exclusão de clientes
+- Validação de nomes e telefones
+- Prevenção de telefones duplicados
+- Geração de relatórios
+- Exportação de clientes para CSV
+- Importação de clientes de CSV
+- Armazenamento de dados em JSON
 
 ## Tecnologias utilizadas
 - Python
